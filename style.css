@@ -1,0 +1,73 @@
+header{
+    background-color: #ccc;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.birinci{
+    margin-bottom: 10px;
+    text-align: center;
+    width: 33.3%;
+    padding: 10px;
+    background-color:#666;
+    box-sizing: border-box;
+    float: left;
+
+}
+.ikinci{
+    margin-bottom: 10px;
+    text-align: center;
+    width: 33.3%;
+    padding: 10px;
+    background-color:#888;
+    box-sizing: border-box;
+    float: left;
+
+}
+.ucuncu{
+    margin-bottom: 10px;
+    text-align: center;
+    width: 33.3%;
+    padding: 10px;
+    background-color:#666;
+    box-sizing: border-box;
+    display:bl;
+    float: left;
+
+}
+.dorduncu{
+
+    margin-top: 10px;
+    padding-top: 10px;
+    background-color: #eee;
+    padding: 30px;
+    text-align: center;
+    
+
+
+}
+.besinci{
+    text-align: left;
+    background-color: #fff;
+    box-sizing: border-box;
+    display: inline-block;
+    float: left;
+    padding: 30px;
+}
+.altinci{
+
+    background-color:#6ea3da;
+    padding: 10px;
+    width: 200%;
+   height: 25px;
+   text-align: right;
+   
+}
+footer{
+    background-color: #ccc;
+    clear: both;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
